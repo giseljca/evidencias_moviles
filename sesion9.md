@@ -162,10 +162,13 @@ public class Longitud extends Conversor {
     } 
 
 //peso
+<br>
 public class Peso extends Conversor {
+    <br>
     public Peso(String unidadOrigen, String unidadDestino) {
         super(unidadOrigen, unidadDestino);
     }
+    <br>
      @Override
     public double convertir(double cantidad) {
         // Código 
