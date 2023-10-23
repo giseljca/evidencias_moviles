@@ -172,6 +172,7 @@ public class Peso extends Conversor {
      @Override
     public double convertir(double cantidad) {
         // Código 
+        <br>
      if (unidadOrigen.equals("Kilogramos")&& unidadDestino.equals("Libras")){
        return cantidad * 2.20462;
     
